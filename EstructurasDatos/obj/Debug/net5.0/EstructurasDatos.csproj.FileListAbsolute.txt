@@ -1,0 +1,16 @@
+C:\Users\mariana\source\repos\EstructurasDatos\EstructurasDatos\bin\Debug\net5.0\EstructurasDatos.exe
+C:\Users\mariana\source\repos\EstructurasDatos\EstructurasDatos\bin\Debug\net5.0\EstructurasDatos.deps.json
+C:\Users\mariana\source\repos\EstructurasDatos\EstructurasDatos\bin\Debug\net5.0\EstructurasDatos.runtimeconfig.json
+C:\Users\mariana\source\repos\EstructurasDatos\EstructurasDatos\bin\Debug\net5.0\EstructurasDatos.runtimeconfig.dev.json
+C:\Users\mariana\source\repos\EstructurasDatos\EstructurasDatos\bin\Debug\net5.0\EstructurasDatos.dll
+C:\Users\mariana\source\repos\EstructurasDatos\EstructurasDatos\bin\Debug\net5.0\ref\EstructurasDatos.dll
+C:\Users\mariana\source\repos\EstructurasDatos\EstructurasDatos\bin\Debug\net5.0\EstructurasDatos.pdb
+C:\Users\mariana\source\repos\EstructurasDatos\EstructurasDatos\obj\Debug\net5.0\EstructurasDatos.csproj.AssemblyReference.cache
+C:\Users\mariana\source\repos\EstructurasDatos\EstructurasDatos\obj\Debug\net5.0\EstructurasDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariana\source\repos\EstructurasDatos\EstructurasDatos\obj\Debug\net5.0\EstructurasDatos.AssemblyInfoInputs.cache
+C:\Users\mariana\source\repos\EstructurasDatos\EstructurasDatos\obj\Debug\net5.0\EstructurasDatos.AssemblyInfo.cs
+C:\Users\mariana\source\repos\EstructurasDatos\EstructurasDatos\obj\Debug\net5.0\EstructurasDatos.csproj.CoreCompileInputs.cache
+C:\Users\mariana\source\repos\EstructurasDatos\EstructurasDatos\obj\Debug\net5.0\EstructurasDatos.dll
+C:\Users\mariana\source\repos\EstructurasDatos\EstructurasDatos\obj\Debug\net5.0\ref\EstructurasDatos.dll
+C:\Users\mariana\source\repos\EstructurasDatos\EstructurasDatos\obj\Debug\net5.0\EstructurasDatos.pdb
+C:\Users\mariana\source\repos\EstructurasDatos\EstructurasDatos\obj\Debug\net5.0\EstructurasDatos.genruntimeconfig.cache
